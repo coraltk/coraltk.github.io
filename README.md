@@ -3,7 +3,7 @@ The coral tech website
 
 ## $ What is coral tech?
 
-A weird design/tech/security thing
+We make **weird** design/tech/security thing
 
 ### > What is the logo
 
