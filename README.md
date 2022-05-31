@@ -1,2 +1,10 @@
 # coraltk.github.io
 The coral tech website
+
+## $ What is coral tech?
+
+A weird design/tech/security thing
+
+### > What is the logo
+
+A bit of coral with two pale blue hands in the shape of 'c' and 't' for **c**oral **t**ech
